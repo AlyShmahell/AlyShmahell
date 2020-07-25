@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 🙋🏻‍♂️🌎
 I'm Aly, a Computer Scientist with a background in Computer Engineering.
 
 ### My Projects
