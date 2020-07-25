@@ -1,4 +1,12 @@
 ### Hi there 👋
+I'm Aly, a Computer Scientist with a background in Computer Engineering.
+
+### My Projects
+##### PyProfyler
+[![Downloads](https://pepy.tech/badge/pyprofyler)](https://pepy.tech/project/pyprofyler)  
+a simple memory profiler for python programs.
+
+
 
 <!--
 **AlyShmahell/AlyShmahell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
