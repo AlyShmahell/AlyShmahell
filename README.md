@@ -1,8 +1,18 @@
-### Hello World 🙋🏻‍♂️🌎
+<style>
+    h1 {
+        color: #013365;
+    }
+    h2 {
+        color: #ffbe2e;
+    }
+</style>
+
+<h1>Hello World 🙋🏻‍♂️🌎</h1>
 I'm Aly, a Computer Scientist with a background in Computer Engineering.
 
-### My Projects
-##### PyProfyler
+<h1> My Projects </h1>
+<h2> PyProfyler </h2>
+
 [![Downloads](https://pepy.tech/badge/pyprofyler)](https://pepy.tech/project/pyprofyler)  
 a simple memory profiler for python programs.
 
