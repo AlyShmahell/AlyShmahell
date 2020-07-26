@@ -9,7 +9,7 @@ a simple memory profiler for python programs.
 
 <h2>stubwheel</h2>
 
-[![Downloads](https://pepy.tech/badge/stubwheel)](https://pepy.tech/project/stubwheel)
+[![Downloads](https://pepy.tech/badge/stubwheel)](https://pepy.tech/project/stubwheel)  
 a script that reserves a project name on pypi
 
 
