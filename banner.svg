@@ -43,7 +43,7 @@
      id="namedview20"
      showgrid="false"
      inkscape:zoom="0.90509672"
-     inkscape:cx="833.88961"
+     inkscape:cx="637.77797"
      inkscape:cy="191.75978"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -102,18 +102,32 @@
   <g
      id="g24"
      transform="matrix(3.2469179,0,0,3.2469179,-14.850893,-65.15234)">
-    <text
-       x="218.84723"
-       y="108.29861"
-       class="train"
-       id="text6"
-       style="font-size:50px;font-family:Iceland">ML</text>
-    <text
-       x="379.76389"
-       y="107.95834"
-       class="train"
-       id="text8"
-       style="font-size:50px;font-family:Iceland">AI</text>
+    <g
+       aria-label="ML"
+       style="font-size:50px;font-family:Iceland"
+       id="text6">
+      <path
+         d="m 247.84723,108.24861 h -4 V 89.848607 l 1.5,-2.5 h -2.25 l -6.15,13.950003 h -2.9 l -5.95,-13.950003 h -2.25 l 1.5,2.5 v 18.400003 h -4 V 83.798607 h 7.15 l 4.95,11.7 h 0.5 l 4.95,-11.7 h 6.95 z"
+         style="font-size:50px;font-family:Iceland"
+         id="path824" />
+      <path
+         d="m 274.34332,108.29861 h -17.5 V 83.798607 h 4 v 21.000003 h 9.5 v -3.5 h 4 z"
+         style="font-size:50px;font-family:Iceland"
+         id="path826" />
+    </g>
+    <g
+       aria-label="AI"
+       style="font-size:50px;font-family:Iceland"
+       id="text8">
+      <path
+         d="m 405.26389,107.95834 h -4 v -7 h -13 v 7 h -4 V 86.958344 q 0,-1.45 1,-2.45 1.05,-1.05 2.5,-1.05 h 17.5 z m -4,-10.499996 v -10.5 h -13 v 13.499996 l 3,-2.999996 z"
+         style="font-size:50px;font-family:Iceland"
+         id="path829" />
+      <path
+         d="m 418.24435,107.95834 h -4 V 83.458344 h 4 z"
+         style="font-size:50px;font-family:Iceland"
+         id="path831" />
+    </g>
     <g
        class="train"
        id="g14">
