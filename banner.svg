@@ -103,6 +103,7 @@
      id="g24"
      transform="matrix(3.2469179,0,0,3.2469179,-14.850893,-65.15234)">
     <g
+       class="train"
        aria-label="ML"
        style="font-size:50px;font-family:Iceland"
        id="text6">
@@ -116,6 +117,7 @@
          id="path826" />
     </g>
     <g
+       class="train"
        aria-label="AI"
        style="font-size:50px;font-family:Iceland"
        id="text8">
