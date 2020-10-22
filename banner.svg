@@ -95,16 +95,16 @@
 
     @-webkit-keyframes read {
       to {
-        -webkit-transform: translate(-400px, 0);
-        transform: translate(-400px, 0);
+        -webkit-transform: translate(-1200px, 0);
+        transform: translate(-1200px, 0);
       }
     }
     
     
     @keyframes read {
       to {
-        -webkit-transform: translate(-400px, 0);
-        transform: translate(-400px, 0);
+        -webkit-transform: translate(-1200px, 0);
+        transform: translate(-1200px, 0);
       }
     }
   </style>
