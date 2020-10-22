@@ -1,0 +1,76 @@
+<html>
+<head>
+  <style>
+    body {
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="1.1"
+  id="robot"
+  x="0"
+  y="0"
+  viewBox="0 0 600 750"
+  xml:space="preserve"
+>
+  <style type="text/css">
+    html {
+      background: #000;
+    }
+    .area, .fore, .mid, .bk, .container {
+      width: 600px;
+      height: 740px;
+      transform: translateZ(0);
+      backface-visibility: hidden;
+      perspective: 1000;
+    }
+    .figure {
+      background: url("training.svg")
+        no-repeat;
+      width: 600px;
+      height: 750px;
+      transform: translate3D(35%, 0, 0);
+      animation: walk 2s steps(2) infinite;
+    }
+
+    .mid {
+      background: url("bk.svg");
+      animation: bk 15s -5s linear infinite;
+    }
+
+    @keyframes walk {
+      100% {
+        background-position: 0 -1500px;
+      }
+    }
+    @keyframes bk {
+      100% {
+        background-position: 200% 0;
+      }
+    }
+    @media screen and (max-width: 600px) {
+      .container {
+        width: 100%;
+        margin-top: 0;
+      }
+
+      .figure {
+        transform: translate3D(40%, 50px, 0);
+      }
+    }
+  </style>
+  <foreignObject x="0" y="0" width="600" height="348">
+    <div class="container">
+      <div class="mid">
+        <div class="figure"></div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
+
+</body>
+</html>
