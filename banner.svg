@@ -55,8 +55,8 @@
 
         .train {
             font-family: 'Iceland', cursive;
-            font-size: 70px;
-            transform: translate(1500px, 0);
+            font-size: 50px;
+            transform: translate(500px, 0);
             -webkit-animation: movement 10s infinite linear;
             animation: movement 20s infinite linear;
             fill: rgb(3, 102, 214);
@@ -86,16 +86,16 @@
 
         @-webkit-keyframes movement {
             to {
-                -webkit-transform: translate(-1500px, 0);
-                transform: translate(-1500px, 0);
+                -webkit-transform: translate(-500px, 0);
+                transform: translate(-500px, 0);
             }
         }
 
 
         @keyframes movement {
             to {
-                -webkit-transform: translate(-1500px, 0);
-                transform: translate(-1500px, 0);
+                -webkit-transform: translate(-500px, 0);
+                transform: translate(-500px, 0);
             }
         }
     </style>
